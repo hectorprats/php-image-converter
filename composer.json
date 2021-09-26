@@ -1,5 +1,5 @@
 {
-    "name": "jens/php-image-converter",
+    "name": "hectorprats/php-image-converter",
     "description": "PHP class to convert image formats",
     "keywords": ["php", "image", "conversion"],
     "type": "library",
