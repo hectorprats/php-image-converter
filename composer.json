@@ -3,12 +3,8 @@
     "description": "PHP class to convert image formats",
     "keywords": ["php", "image", "conversion"],
     "type": "library",
-    "homepage": "https://github.com/jenstornell/php-image-converter",
+    "homepage": "https://github.com/hectorprats/php-image-converter",
     "license": "MIT",
-    "authors": [{
-        "name": "Jens Törnell",
-        "homepage": "http://www.jenst.se/"
-    }],
     "require": {
         "php": "^7.1",
         "ext-gd": "*",
